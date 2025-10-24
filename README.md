@@ -29,6 +29,8 @@ Frontend: HTML, CSS, JavaScript
 
 Backend: Node.js
 
+Database: Mongodb
+
 Validation: JavaScript (client-side)
 
 Project Structure
