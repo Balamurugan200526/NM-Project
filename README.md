@@ -1,4 +1,4 @@
-IBM Node.js Client-Side Validation Project
+IBM Node.js Client-Side form Validation Project
 
 Author: S. Balamurugan
 College: A.V.C College of Engineering
@@ -34,7 +34,7 @@ Database: Mongodb
 Validation: JavaScript (client-side)
 
 Project Structure
-IBM-NJ-Client-Side-Validation/
+NM-Project/
 │
 ├─ server.js           # Node.js server
 ├─ index.html          # Main HTML form
