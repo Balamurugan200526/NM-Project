@@ -33,7 +33,7 @@ Database: Mongodb
 
 Validation: JavaScript (client-side)
 
-Project Structure
+Project Structure:
 NM-Project/
 │
 ├─ server.js           # Node.js server
