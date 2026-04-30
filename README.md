@@ -46,7 +46,7 @@ To implement a **robust client-side validation system** using JavaScript with ba
 NM-Project/
 │
 ├── screenshots/
-│ └── form.png
+│   └── form.png
 │
 ├── server.js
 ├── index.html
