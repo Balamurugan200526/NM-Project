@@ -53,7 +53,7 @@ NM-Project/
 ├── style.css
 ├── script.js
 └── README.md
----
+```
 
 ## ⚙️ How to Run Locally  
 
