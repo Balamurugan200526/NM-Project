@@ -1,94 +1,116 @@
-IBM Node.js Client-Side form Validation Project
+🌐 IBM Node.js Client-Side Form Validation Project  
 
-Author: S. Balamurugan
-College: A.V.C College of Engineering
+**👨‍💻 Author:** S. Balamurugan  
+**🏫 College:** A.V.C College of Engineering  
 
-Project Overview
+---
 
-This project demonstrates client-side form validation using HTML, CSS, and JavaScript, with a Node.js server to handle submissions. It ensures user inputs are validated before sending data to the server, enhancing data integrity and user experience.
+## 📌 Project Overview  
 
-Aim
+This project demonstrates **client-side form validation** using **HTML, CSS, and JavaScript**, along with a **Node.js backend** for handling form submissions.  
 
-To implement robust client-side validation for web forms using JavaScript, with server-side handling via Node.js.
+It ensures user inputs are validated **before sending data to the server**, improving data accuracy and user experience.
 
-Features
+---
 
-Real-time input validation (e.g., email, phone, password strength)
+## 🎯 Aim  
 
-Error messages displayed dynamically
+To implement a **robust client-side validation system** using JavaScript with backend processing through Node.js.
 
-Clean, responsive UI design
+---
 
-Node.js backend for handling form submissions
+## 🚀 Features  
 
-Easy to extend for other forms and validations
+- ✅ Real-time input validation (Email, Phone, Password)  
+- ⚠️ Dynamic error messages  
+- 🎨 Clean and responsive UI  
+- 🔗 Node.js backend integration  
+- 🧩 Easy to extend  
 
-Technology Stack
+---
 
-Frontend: HTML, CSS, JavaScript
+## 🛠️ Technology Stack  
 
-Backend: Node.js
+| Layer       | Technology Used        |
+|------------|----------------------|
+| Frontend   | HTML, CSS, JavaScript |
+| Backend    | Node.js              |
+| Database   | MongoDB              |
+| Validation | JavaScript           |
 
-Database: Mongodb
+---
 
-Validation: JavaScript (client-side)
+## 📁 Project Structure  
 
-Project Structure:
+
 NM-Project/
 │
-├─ server.js           # Node.js server
-├─ index.html          # Main HTML form
-├─ style.css           # CSS for styling
-├─ script.js           # JS for client-side validation
-└─ README.md           # Project documentation
+├── screenshots/
+│ └── form.png
+│
+├── server.js
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
-How to Run Locally
 
-Clone the repository:
+---
+
+## ⚙️ How to Run Locally  
+
 
 git clone https://github.com/Balamurugan200526/NM-Project.git
 
-
-Navigate to the project folder:
-
-C:\xampp\htdocs\NM-Project\backend
-
-
-Install dependencies:
-
+cd NM-Project
 npm install
-
-
-Start the server:
-
 node server.js
 
 
-Open index.html in your browser and test the form.
+Open `index.html` in your browser.
 
-Demo
+---
 
-https://balamurugan200526.github.io/NM-Project/
+## 🌍 Live Demo  
 
+🔗 https://balamurugan200526.github.io/NM-Project/
 
-Challenges & Solutions
+---
 
-Challenge: Ensuring proper validation for all input types.
-Solution: Used JavaScript regex and conditional checks for real-time validation.
+## 🖼️ Screenshots  
+<img width="1108" height="914" alt="image" src="https://github.com/user-attachments/assets/283ac892-8e8e-4bfb-9495-ce40040ed8cc" />
 
-Challenge: Handling server submission errors.
-Solution: Implemented Node.js backend with proper error handling.
+### 📝 Registration Form UI  
 
-References
+![Registration Form](screenshots/form.png)
 
-Node.js Documentation
+---
 
-MDN Web Docs - JavaScript
+## 🧠 Challenges & Solutions  
 
-Screenshots
+### 🔴 Challenge  
+Validating multiple inputs correctly  
 
-all screenshots included in phase 5
+✅ **Solution:**  
+Used JavaScript regex and real-time validation  
 
-License
+---
+
+### 🔴 Challenge  
+Handling backend submission  
+
+✅ **Solution:**  
+Implemented Node.js server with error handling  
+
+---
+
+## 📚 References  
+
+- Node.js Documentation  
+- MDN Web Docs  
+
+---
+
+## 📄 License  
 
 This project is open-source and free to use.
