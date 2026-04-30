@@ -78,12 +78,9 @@ Open `index.html` in your browser.
 ---
 
 ## 🖼️ Screenshots  
-<img width="1108" height="914" alt="image" src="https://github.com/user-attachments/assets/283ac892-8e8e-4bfb-9495-ce40040ed8cc" />
 
-### 📝 Registration Form UI  
-
-![Registration Form](screenshots/form.png)
-
+### 📝 Registration Form UI
+<img width="1108" height="914" alt="image" src="https://github.com/user-attachments/assets/5a183438-3e76-4de5-9d93-43f0fd766688" />
 ---
 
 ## 🧠 Challenges & Solutions  
