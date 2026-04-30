@@ -42,17 +42,17 @@ To implement a **robust client-side validation system** using JavaScript with ba
 
 ## 📁 Project Structure  
 
+```
 NM-Project/
-|
-|-- screenshots/
-|   |-- form.png
-|
-|-- server.js
-|-- index.html
-|-- style.css
-|-- script.js
-|-- README.md
-
+│
+├── screenshots/
+│   └── form.png
+│
+├── server.js
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 ---
 
 ## ⚙️ How to Run Locally  
