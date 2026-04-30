@@ -42,7 +42,6 @@ To implement a **robust client-side validation system** using JavaScript with ba
 
 ## 📁 Project Structure  
 
-
 NM-Project/
 │
 ├── screenshots/
